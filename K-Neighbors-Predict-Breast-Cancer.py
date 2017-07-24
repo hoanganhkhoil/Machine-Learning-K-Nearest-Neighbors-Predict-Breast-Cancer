@@ -35,5 +35,5 @@ X_sample = np.array([[4,2,1,1,1,2,3,1,1], [8,10,10,8,7,10,9,7,1]], dtype=np.floa
 prediction = clf.predict(X_sample)
 
 
-print accuracy
-print prediction
+print (accuracy)
+print (prediction)
